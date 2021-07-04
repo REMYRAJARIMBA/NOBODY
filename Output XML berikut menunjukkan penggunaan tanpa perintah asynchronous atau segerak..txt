@@ -1,0 +1,11 @@
+<AuditComputerName>
+   <MustReboot>true</MustReboot>
+   <Name>MyComputer</Name>
+</AuditComputerName>
+<ExtendOSPartition>
+   <Size>200</Size>
+</ExtendOSPartition>
+<Reseal>
+   <ForceShutdownNow>true</ForceShutdownNow>
+   <Mode>Audit</Mode>
+</Reseal>
